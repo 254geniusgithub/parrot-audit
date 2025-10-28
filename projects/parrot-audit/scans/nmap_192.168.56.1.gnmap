@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Tue Oct 28 05:31:11 2025 as: nmap -sV -Pn -oA /home/parrot/projects/parrot-audit/scans/nmap_192.168.56.1 192.168.56.1
+Host: 192.168.56.1 ()	Status: Up
+Host: 192.168.56.1 ()	Ports: 22/filtered/tcp//ssh///, 23/filtered/tcp//telnet///, 179/filtered/tcp//bgp///, 646/open/tcp//tcpwrapped///	Ignored State: closed (996)
+# Nmap done at Tue Oct 28 05:31:13 2025 -- 1 IP address (1 host up) scanned in 2.23 seconds
