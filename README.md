@@ -106,10 +106,6 @@ This workflow mirrors what professional penetration testers and system administr
 
 scans/nmap_192.168.56.1_advanced.txt – raw Nmap output
 
-scans/lynis_parrot_audit.txt – Lynis audit report
-
-screenshots/ – (Add your terminal screenshots here)
-
 
 
 ---
